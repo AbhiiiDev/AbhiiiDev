@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://twitter.com/abhiiidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhiiidev" height="30" width="40" /></a>
   &nbsp;
-<a href="https://linkedin.com/in/abhishek verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek verma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhishek-verma-232ba6225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek verma" height="30" width="40" /></a>
    &nbsp;
 <a href="https://instagram.com/_abhi.shekkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_abhi.shekkk" height="30" width="40" /></a>
    &nbsp;
