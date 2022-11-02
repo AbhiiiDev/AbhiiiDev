@@ -73,6 +73,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiiidev&" alt="abhiiidev" /></p>
 <br> <br>
 
-<H1 align="center" > RECENT PARTICIPATIONS/ACHEIVEMENTS : </H1>
+<H1 align="center" > RECENT ACHEIVEMENTS : </H1>
 
 [![@abhi387verma's Holopin board](https://holopin.me/abhi387verma)](https://holopin.io/@abhi387verma)
