@@ -23,12 +23,14 @@
 
 <h3 align="left">CONNECT WITH ME : </h3>
 <p align="left">
+ <a href="https://dev.to/abhiiidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abhiiidev" height="30" width="40" /></a>
 <a href="https://twitter.com/abhiiidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhiiidev" height="30" width="40" /></a>
   &nbsp;
 <a href="https://www.linkedin.com/in/abhishek-verma-232ba6225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek verma" height="30" width="40" /></a>
    &nbsp;
 <a href="https://instagram.com/_abhi.shekkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_abhi.shekkk" height="30" width="40" /></a>
    &nbsp;
+
 </p>
 <br>
 <br>
@@ -53,7 +55,10 @@
    &nbsp;
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
    &nbsp;
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+ <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>    &nbsp;
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a></p>
+</p>
+ 
 <br>
 
 <h3 align="left">SUPPORT:</h3>
