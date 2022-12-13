@@ -71,7 +71,7 @@
 <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiiidev&show_icons=true&locale=en&layout=compact" alt="abhiiidev" /></p>
+<p><img align="left" src=" https://github-readme-stats-beryl.vercel.app/api?username=abhiiidev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="abhiiidev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiiidev&show_icons=true&locale=en" alt="abhiiidev" /></p>
 
