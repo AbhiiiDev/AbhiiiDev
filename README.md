@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **BackEnd , Bootstrap , TailWind**
 
-- 💬 Ask me about ** CSS , HTML ,JAVASCRIPT, NODEJS , REACT, EXPRESS, NODEMON**
+- 💬 Ask me about ** CSS , HTML , JAVASCRIPT, NODEJS , REACT, EXPRESS, NODEMON**
 
 - 📫 How to reach me **vermabhii387@gmail.com**
 
