@@ -9,11 +9,11 @@
 <p align="left"> <a href="https://twitter.com/abhiiidev" target="blank"><img src="https://img.shields.io/twitter/follow/abhiiidev?logo=twitter&style=for-the-badge" alt="abhiiidev" /></a> </p>
 <br>
 
-- 🌱 I’m currently learning ** NODEJS , Bootstrap , TailWind**
+- 🌱 I’m currently learning ** NODEJS , EXPRESSJS , MONGODB , BOOTSTRAP **
 
 - 💬 Ask me about ** CSS , HTML , JAVASCRIPT , NODEJS , REACTJS , EXPRESSJS , MONGODB **
 
-- 📫 How to reach me **vermabhii387@gmail.com**
+- 📫 How to reach me ** vermabhii387@gmail.com **
 
 - ⚡ Fun fact ** I THINK I AM AN ENGINEER TOO **
  <br>
