@@ -3,8 +3,13 @@
 <h2 align="center"> A PASSIONATE MERN STACK DEVELOPER FROM NCR,INDIA </h3>
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiiidev&label=Profile%20views&color=0e75b6&style=flat" alt="abhiiidev" /> </p>
+<p align="center"> 
+  Visitor count
+ <br>
+  <img src="https://profile-counter.glitch.me/AbhiiiDev/count.svg" />
+</p>
 <br>
+<a href=#><img src="contributions.svg"></a>
 
 <p align="left"> <a href="https://twitter.com/abhiiidev" target="blank"><img src="https://img.shields.io/twitter/follow/abhiiidev?logo=twitter&style=for-the-badge" alt="abhiiidev" /></a> </p>
 <br>
@@ -81,3 +86,4 @@
 <H1 align="center" > RECENT ACHEIVEMENTS : </H1>
 
 [![@abhi387verma's Holopin board](https://holopin.me/abhi387verma)](https://holopin.io/@abhi387verma)
+
