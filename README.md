@@ -6,25 +6,25 @@
 <p align="center"> 
   Visitor count
  <br>
-  <img src="https://profile-counter.glitch.me/AbhiiiDev/count.svg" />
+  <img src="https://profile-counter.glitch.me/abhiiidev/count.svg" />
 </p>
 <br>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
  <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/abhishek-verma-232ba6225/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://twitter.com/abhiiidev" target="blank">
+  <a href="https://instagram.com/_abhi.shekkk" target="blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 </div>
-
+<hr>
 <br>
 
 - 🌱 I’m currently learning ** NODEJS , EXPRESSJS , MONGODB , BOOTSTRAP **
@@ -51,6 +51,7 @@
 
 </p>
 <br>
+<hr>
 <br>
 <h3 align="left">LANGUAGES AND TOOLS : </h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -76,13 +77,14 @@
  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>    &nbsp;
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a></p>
 </p>
- 
+ <hr>
 <br>
 
 <h3 align="left">SUPPORT:</h3>
 <p>
   
   <a href="https://www.buymeacoffee.com/abhiishDev"> &nbsp; <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abhiishDev" /></a></p><br><br>
+  <hr>
 <br>
 
 <h3 align="center"> ABHII'S STATS : </h3>
@@ -97,7 +99,7 @@
 <br> <br>
 <p>
 
-
+<hr>
 </p>
 
 <H1 align="center" > RECENT ACHEIVEMENTS : </H1>
