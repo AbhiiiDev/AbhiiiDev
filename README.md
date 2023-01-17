@@ -1,5 +1,5 @@
 <h1 align="center">Hey! 👋  I'm Abhishek Verma</h1>
-<a href=#><img src="contributions.svg"></a>
+  ![Snake animation](https://github.com/AbhiiiDev/AbhiiiDev/blob/output/github-contribution-grid-snake.svg)
 <h2 align="center"> A PASSIONATE MERN STACK DEVELOPER FROM NCR,INDIA </h3>
 
 <br>
