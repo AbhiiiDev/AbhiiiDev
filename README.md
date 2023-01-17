@@ -1,5 +1,5 @@
 <h1 align="center">Hey! 👋  I'm Abhishek Verma</h1>
-<img align="center" alt="Coding" width="80%" height="300" src="https://imgs.search.brave.com/sKUXuQ-Q7qk_d1q67gCDfB5LVuUAXA64n5nwyUHswak/rs:fit:680:428:1/g:ce/aHR0cDovL3N0dWRp/b3BpeGVsLmluL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE3LzEx/L3Nlbmlvci1mcm9u/dC1lbmQtZGV2ZWxv/cGVyLW9wZW5pbmdz/LTEuZ2lm.gif">
+<a href=#><img src="contributions.svg"></a>
 <h2 align="center"> A PASSIONATE MERN STACK DEVELOPER FROM NCR,INDIA </h3>
 
 <br>
@@ -9,7 +9,7 @@
   <img src="https://profile-counter.glitch.me/AbhiiiDev/count.svg" />
 </p>
 <br>
-<a href=#><img src="contributions.svg"></a>
+
 
 <p align="left"> <a href="https://twitter.com/abhiiidev" target="blank"><img src="https://img.shields.io/twitter/follow/abhiiidev?logo=twitter&style=for-the-badge" alt="abhiiidev" /></a> </p>
 <br>
