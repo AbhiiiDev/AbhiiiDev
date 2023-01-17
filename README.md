@@ -79,11 +79,11 @@
 <p><img align="left" src="https://github-readme-stats-beryl.vercel.app/api?username=abhiiidev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="abhiiidev" /></p>
 
 
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiiidev&](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiiidev&layout=compact&theme=vision-friendly-dark" alt="abhiiidev" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiiidev&" alt="abhiiidev" /></p>
 <br> <br>
 <p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiiidev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </p>
 
