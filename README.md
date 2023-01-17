@@ -17,10 +17,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://instagram.com/_abhi.shekkk" target="blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+   <a href="https://dev.to/abhiiidev" target="blank">
+    <img src="https://img.shields.io/badge/Dev-pink?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev Badge"/>
   </a>
 </div>
 </div>
@@ -35,19 +37,6 @@
 
 - ⚡ Fun fact ** I THINK I AM AN ENGINEER TOO **
  <br>
-<br>
-
-
-
-<h3 align="left">CONNECT WITH ME : </h3>
-<p align="left">
- <a href="https://dev.to/abhiiidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abhiiidev" height="30" width="40" /></a>
-<a href="https://twitter.com/abhiiidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhiiidev" height="30" width="40" /></a>
-  &nbsp;
-<a href="https://www.linkedin.com/in/abhishek-verma-232ba6225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek verma" height="30" width="40" /></a>
-   &nbsp;
-<a href="https://instagram.com/_abhi.shekkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_abhi.shekkk" height="30" width="40" /></a>
-   &nbsp;
 
 </p>
 <br>
