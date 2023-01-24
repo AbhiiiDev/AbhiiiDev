@@ -90,6 +90,12 @@
 
 <hr>
 </p>
+<p>
+<h3> Latest Blogs  </h3>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+</p>
+<br> <br><br>
 
 <H1 align="center" > RECENT ACHEIVEMENTS : </H1>
 
