@@ -91,9 +91,10 @@
 <hr>
 </p>
 <p>
-<h3> Latest Blogs  </h3>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<h3> Latest Blog Posts 👇 </h3>
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
+
 </p>
 <br> <br><br>
 
