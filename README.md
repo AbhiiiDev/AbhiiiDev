@@ -41,7 +41,7 @@
 </p>
 <br> -->
 <hr>
-<br>
+
 <h3 align="left">LANGUAGES AND TOOLS : </h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
    &nbsp;
@@ -67,24 +67,24 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a></p>
 </p>
  <hr>
-<br>
+
 
 <h3 align="left">SUPPORT 🤝:</h3>
 <p>
   
   <a href="https://www.buymeacoffee.com/abhiishDev"> &nbsp; <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abhiishDev" /></a></p><br><br>
   <hr>
-<br>
+
 
 <h3 align="left">  STATS 🔥 : </h3>
-<br>
+
 
 
 &nbsp;
 
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiiidev&](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiiidev&layout=compact&theme=vision-friendly-dark" alt="abhiiidev" />
 
-<br> <br>
+ 
 <p>
 
 <hr>
