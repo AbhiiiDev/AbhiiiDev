@@ -1,6 +1,6 @@
 <h1 align="center">Hey! 👋  I'm Abhishek Verma</h1>
  <img src = "https://github.com/abhiiidev/abhiiidev/blob/output/github-contribution-grid-snake.svg" />
-<h2 align="center"> !!! WELCOME TO THE WORLD OF OPEN SOURCE !!! </h3>
+<h2 align="center">MERN Stack Developer 💻 || Blogs 📄 || Threads 📜 || Posts 📝 </h3>
 
 <br>
 <p align="center"> 
@@ -26,8 +26,8 @@
   </a>
 </div>
 </div>
-<hr>
-<br>
+
+<!-- <br>
 
 - 🌱 I’m currently learning ** NODEJS , EXPRESSJS , MONGODB , BOOTSTRAP **
 
@@ -39,7 +39,7 @@
  <br>
 
 </p>
-<br>
+<br> -->
 <hr>
 <br>
 <h3 align="left">LANGUAGES AND TOOLS : </h3>
@@ -69,14 +69,14 @@
  <hr>
 <br>
 
-<h3 align="left">SUPPORT:</h3>
+<h3 align="left">SUPPORT 🤝:</h3>
 <p>
   
   <a href="https://www.buymeacoffee.com/abhiishDev"> &nbsp; <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abhiishDev" /></a></p><br><br>
   <hr>
 <br>
 
-<h3 align="center"> ABHII'S STATS : </h3>
+<h3 align="left">  STATS 🔥 : </h3>
 <br>
 
 
