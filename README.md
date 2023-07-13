@@ -29,13 +29,6 @@
 
 <br>
 
-- 🌱 I’m currently learning ** NODEJS , EXPRESSJS , MONGODB , BOOTSTRAP **
-
-- 💬 Ask me about ** CSS , HTML , JAVASCRIPT , NODEJS , REACTJS , EXPRESSJS , MONGODB **
-
-- 📫 How to reach me ** vermabhii387@gmail.com **
-
-- ⚡ Fun fact ** I THINK I AM AN ENGINEER TOO **
 
 
 </p>
