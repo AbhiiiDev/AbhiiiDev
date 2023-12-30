@@ -104,7 +104,4 @@
 </p>
 <br> <br><br>
 
-<H1 align="center" > RECENT ACHEIVEMENTS : </H1>
-
-[![@abhi387verma's Holopin board](https://holopin.me/abhi387verma)](https://holopin.io/@abhi387verma)
 
