@@ -4,11 +4,6 @@
 <br>
 <h3 align="center"> I am not like 2020-21 Tech Market, I'll stay  💻 </h3>
 <br>
-<p align="center"> 
-  Visitor count
- <br>
-  <img src="https://profile-counter.glitch.me/abhiiidev/count.svg" />
-</p>
 <br>
 
 <div id="header" align="center">
