@@ -83,7 +83,7 @@
 <hr>
 </p>
 <p>
-<h3> Latest Blog Posts 👇 </h3>
+<h3>  Blogs 👇 </h3>
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
 <a href="https://abhiiikeblogs.hashnode.dev//the-reality-of-being-a-student-with-a-side-hustle" title="The Reality of Being a Student with a Side Hustle"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/4-EeTnaC1S4/upload/46751fe9e7eefb207370c3b04af27aff.jpeg" alt="The Reality of Being a Student with a Side Hustle" width="250px" align="left" /></a>
