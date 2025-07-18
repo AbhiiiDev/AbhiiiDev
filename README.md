@@ -1,5 +1,5 @@
 <h1 align="center">Heyyyy 👋  I am Abhishek </h1>
-<h2 align="center"> I love to code Projects which require real work not just fixing CSS 📝 </h2>
+<h2 align="center"> I love to bild Projects which require real work not just fixing CSS 📝 </h2>
 <br>
 <h3 align="center"> I am not like 2020-21 Tech Market, I'll stay  💻 </h3>
 <br>
